@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z690 Aero D, Intel Core i9 12900KF, AMD Radeon RX 6900 XT and Apple Studio Diplay WORK PERFECTLY!
 
+![Apple Studio Display - Details 5](https://github.com/luchina-gabriel/EFI-GIGABYTE-Z690-AERO-D-CORE-i9-12900KF-RX-6900-XT-APPLE-STUDIO-DISPLAY-PUBLIC/assets/23700365/ce2c269d-e29a-482f-ae33-c7756e90ed6a)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.5)
